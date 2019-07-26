@@ -1,0 +1,10 @@
+C:\Users\Josh\Desktop\BrainTest\bin\Debug\BrainTest.exe.config
+C:\Users\Josh\Desktop\BrainTest\bin\Debug\BrainTest.exe
+C:\Users\Josh\Desktop\BrainTest\bin\Debug\BrainTest.pdb
+C:\Users\Josh\Desktop\BrainTest\obj\Debug\BrainTest.csprojAssemblyReference.cache
+C:\Users\Josh\Desktop\BrainTest\obj\Debug\BrainTest.Form1.resources
+C:\Users\Josh\Desktop\BrainTest\obj\Debug\BrainTest.Properties.Resources.resources
+C:\Users\Josh\Desktop\BrainTest\obj\Debug\BrainTest.csproj.GenerateResource.cache
+C:\Users\Josh\Desktop\BrainTest\obj\Debug\BrainTest.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\BrainTest\obj\Debug\BrainTest.exe
+C:\Users\Josh\Desktop\BrainTest\obj\Debug\BrainTest.pdb
